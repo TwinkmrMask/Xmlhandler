@@ -1,0 +1,26 @@
+﻿<Window x:Class="Xmlhandler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Конспекты" Height="450" Width="800" Icon="Plus.png">
+    <Grid>
+        <ScrollViewer Background="Transparent">
+            <DataGrid x:Name="Data" GridLinesVisibility="None"  Background="White" RowBackground="Transparent" CanUserAddRows="False">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="btn" Background="Transparent" BorderBrush="Transparent" Content="  Открыть  " Click="Btn_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+
+        </ScrollViewer>
+    </Grid>
+
+</Window>

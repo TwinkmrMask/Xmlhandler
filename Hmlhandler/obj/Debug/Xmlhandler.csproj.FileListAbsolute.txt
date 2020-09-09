@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\bin\Debug\Hmlhandler.exe.config
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\bin\Debug\Hmlhandler.exe
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\bin\Debug\Hmlhandler.pdb
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Xmlhandler.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Hmlhandler_MarkupCompile.cache
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Hmlhandler.g.resources
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Hmlhandler.Properties.Resources.resources
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Xmlhandler.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Xmlhandler.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Hmlhandler.exe
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Hmlhandler.pdb
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Precis.baml
+C:\Users\user\source\repos\Hmlhandler\Hmlhandler\obj\Debug\Precis.g.cs

@@ -1,0 +1,14 @@
+<document name="Название документа">
+<theme name="Тема">
+<para name="Подзаголовок"> <!-- Параграф -->
+<definition name="Понятие" text="Определение"/>
+<arrow name="Понятие">
+<mark name="" text="Возможное ответвление"/>
+<comment text="Комментарий"/>
+</arrow>
+<text text="Текст"/>
+<mark name="маркер" text="Сноска"/>  <!-- <mark name="•" text="Пункт1"/> →  • Пункт1 -->
+<comment name="Сноска" text="Комментарий"/>
+</para>
+</theme>
+</document>
